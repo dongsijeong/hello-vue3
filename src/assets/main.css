@@ -1,0 +1,14 @@
+@import './base.css';
+.v-btn {
+  border-radius: 3px !important;
+  text-transform: unset;
+}
+.v-data-table tbody .v-data-table__empty-wrapper td {
+  border-bottom: none !important;
+}
+.v-btn:not(.v-btn--round).v-size--small {
+  padding: 8px !important;
+}
+.container {
+  max-width: 1190px !important;
+}
