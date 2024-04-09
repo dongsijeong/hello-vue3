@@ -1,0 +1,13 @@
+/* App Start */
+#app {
+  font-family: Meiryo UI;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  font-size: 13px;
+}
+.v-application {
+  font-family: Meiryo UI !important;
+}
+/* App End */
